@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sung Keum, a business analytics student at GGU.</h1>
-<h3 align="center">An analyst with passion for businesses 🏪 and financial markets 📈</h3>
+<h3 align="center">An analyst with passion for businesses 🏪, data 📔, and financial markets 📈</h3>
 
 <h2>🙋‍♀️ About Me</h2>
 
