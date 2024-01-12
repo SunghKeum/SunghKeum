@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000" height="300" src="/plpso-feratures-data-business.jpg">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sung Keum, a business analytics student at GGU.</h1>
 <h3 align="center">An analyst with passion for businesses 🏪 and financial markets 📈</h3>
 
