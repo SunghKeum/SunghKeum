@@ -23,7 +23,7 @@
 
 <h2>📚 Projects</h2>
 
-- View my analytics work & coding projects on [Github](https://github.com/SunghKeum)
+- View my analytics work & coding projects on [Github](https://github.com/SunghKeum?tab=repositories)
 - View my data visualizations on [Tableau Public](https://public.tableau.com/app/profile/sung.keum/vizzes)
 
 <h2>📫 Connect with Me</h2>
