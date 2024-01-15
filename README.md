@@ -19,7 +19,7 @@
   - SQL (JOINS, CTE, VIEWS, Subqueries, RANK, UNIONS)
   - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
   - Excel (PivotTable, VLOOKUP, Conditional functions, Statistical Analysis, and Forecast)
-- **Skills:** Critical Thinking, Problem Solving, Communication, Leadership, Team Player, Resiliency, Time Management
+- **Skills:** Critical Thinking, Problem Solving, Communication, Leadership, Team Player, Resiliency, Time Management, detail-oriented
 
 <h2>📚 Projects</h2>
 
