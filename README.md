@@ -18,7 +18,7 @@
   - Tableau
   - SQL (JOINS, CTE, VIEWS, Subqueries, UNIONS, CASE Statement, Window Functions)
   - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-  - Excel (PivotTable, VLOOKUP, Conditional functions, Statistical Analysis, and Forecast)
+  - Excel (PivotTable, VLOOKUP, Conditional Functions, Statistical Analysis, and Forecast)
 - **Skills:** Critical Thinking, Problem Solving, Communication, Leadership, Team Player, Resiliency, Time Management, Detail-oriented
 
 <h2>📚 Projects</h2>
