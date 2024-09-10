@@ -9,7 +9,7 @@
 
 - 📊 I am an aspiring business analyst.
 - 🎓 Degrees in Economics, Mathematics, and Business Analytics.
-- 🌱 Currently honing skills in **Tableau, Python, and SQL**.
+- 🌱 Continuously honing skills in **Tableau, Python, SQL, Project Management, Business Analysis**.
 - ⚡ Fun facts: **I love sushi 🍣 & weightlifting 🏋️‍♂️**.
 
 <h2>🛠 Skills and Tools</h2>
