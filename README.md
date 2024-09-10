@@ -2,7 +2,7 @@
   <img width="1000" height="300" src="/plpso-feratures-data-business.jpg">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sung, a business analytics student at GGU.</h1>
+<h1 align="center">Hi 👋, I'm Sung, Welcome to my page~</h1>
 <h3 align="center">An analyst with passion for business 🏪, data 📔, and financial markets 📈</h3>
 
 <h2>🙋‍♀️ About Me</h2>
